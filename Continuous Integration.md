@@ -81,7 +81,7 @@ Next errors are possible:
  }
   ``` 
   
-4. Uploaded file is not a build::
+4. Uploaded file is not a build:
 
   ```
  {
